@@ -14,6 +14,7 @@
 * [![Pandas][Pandas-badge]][Pandas-url]
 * [![PyCharm][PyCharm-badge]][PyCharm-url]
 * [![MySQL][MySQL-badge]][MySQL-url]
+* ![PyPI - Downloads](https://img.shields.io/pypi/dd/sklearn)
 
 <!-- MARKDOWN LINKS -->
 [Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
