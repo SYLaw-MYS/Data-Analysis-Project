@@ -8,12 +8,21 @@ Data visualization with matplotlib, seaborn, numpy enable a more efficient way t
 Lastly, data modelling with machine learning method help the company in making decision what operations can result in better company's performance by predicting its potential sales.
 
 
-### Built With
+### Tools used in this project
 * [![Selenium][Selenium-badge]][Selenium-url]
 * [![Pandas][Pandas-badge]][Pandas-url]
 * [![PyCharm][PyCharm-badge]][PyCharm-url]
 * [![MySQL][MySQL-badge]][MySQL-url]
 * ![PyPI - Downloads](https://img.shields.io/pypi/dd/sklearn)
+
+### Datasets used
+The dataset provided with the MySQL Advanced Course by [![Maven][Maven-url]] analyzed the sales of Maven Fuzzy Factory, and was specifically adjusted for the Bootcamp in 2022 from [![Udemy][Udemy-SQLcourse-url]] to aid students practice SQL skills with a project. 
+
+We will be working with six related tables, which contain eCommerce data about:
++ Website Activity
++ Products
++ Orders and Refunds
+We will use MySQL to understand how customers access and interact with the site, analyse landing page performance and conversion, and explore product-level sales.
 
 <!-- MARKDOWN LINKS -->
 [Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
@@ -23,4 +32,7 @@ Lastly, data modelling with machine learning method help the company in making d
 [Selenium-badge]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [Selenium-url]: https://www.selenium.dev/
 [MySQL-badge]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
 [MySQL-url]: https://www.mysql.com/
+[Maven-url]:https://www.mavenanalytics.io/
+[Udemy-SQLcourse-url]:https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/ 
