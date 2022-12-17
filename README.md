@@ -32,7 +32,6 @@ We will use MySQL to understand how customers access and interact with the site,
 [Selenium-badge]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [Selenium-url]: https://www.selenium.dev/
 [MySQL-badge]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
 [MySQL-url]: https://www.mysql.com/
 [Maven-url]:https://www.mavenanalytics.io/
 [Udemy-SQLcourse-url]:https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/ 
