@@ -25,7 +25,7 @@ We will be working with six related tables, which contain eCommerce data about:
 We will use MySQL to understand how customers access and interact with the site, analyse landing page performance and conversion, and explore product-level sales.
 
 ### Entity Relationship Diagram
-![ERD-diagram]("images/ERD-diagram.png")
+![ERD-diagram]("ERD-diagram.png")
 
 
 <!-- MARKDOWN LINKS -->
