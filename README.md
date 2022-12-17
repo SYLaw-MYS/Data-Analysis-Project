@@ -1,13 +1,12 @@
-## Story
+## Introduction
 
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
+An SQL analysis of a company's trended performance data , telling the story  of the company's growth, can help the CEO craft a story about a data-driven company that has been producing rapid growth. 
+
+Analysing the traffic and website performance data is important in order to show 
+how the company able to produce growth, by diving into channels and website optimizations
+
+By diving in to the marketing channel activities and the website improvements that have contributed to the company success to date, it can show to the stakeholder that the company is a serious data-driven shop
 
 ### Built With
 * [![Selenium][Selenium-badge]][Selenium-url]
