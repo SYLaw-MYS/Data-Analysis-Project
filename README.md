@@ -26,16 +26,17 @@ We will use MySQL to understand how customers access and interact with the site,
 
 ### Entity Relationship Diagram
 ![]("images/ERD-diagram.png")
-
+![ERD-diagram](https://user-images.githubusercontent.com/82585811/208382626-e1f451f2-acdd-4433-af37-f0a50533cecd.png)
 
 <!-- MARKDOWN LINKS -->
 [Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Pandas-url]: https://pandas.pydata.org/
 [PyCharm-badge]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [PyCharm-url]: https://www.jetbrains.com/pycharm/
-[Selenium-badge]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
+[Selenium-badge]: https://img.shields.io/ba-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
 [Selenium-url]: https://www.selenium.dev/
 [MySQL-badge]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
 [Maven-url]:https://www.mavenanalytics.io/
 [Udemy-SQLcourse-url]:https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/ 
+
