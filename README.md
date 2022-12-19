@@ -9,7 +9,7 @@ Lastly, data modelling with machine learning method help the company in making d
 
 
 ### Tools used in this project
-* [![Selenium][Selenium-badge]][Selenium-url]
+
 * [![Pandas][Pandas-badge]][Pandas-url]
 * [![PyCharm][PyCharm-badge]][PyCharm-url]
 * [![MySQL][MySQL-badge]][MySQL-url]
@@ -25,8 +25,8 @@ We will be working with six related tables, which contain eCommerce data about:
 We will use MySQL to understand how customers access and interact with the site, analyse landing page performance and conversion, and explore product-level sales.
 
 ### Entity Relationship Diagram
-![]("images/ERD-diagram.png")
-![ERD-diagram](https://user-images.githubusercontent.com/82585811/208382626-e1f451f2-acdd-4433-af37-f0a50533cecd.png)
+<img src="images/ERD-diagram.png">
+
 
 <!-- MARKDOWN LINKS -->
 [Pandas-badge]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
