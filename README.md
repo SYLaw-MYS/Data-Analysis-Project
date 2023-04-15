@@ -16,7 +16,7 @@ Lastly, data modelling with machine learning method help the company in making d
 * ![PyPI - Downloads](https://img.shields.io/pypi/dd/sklearn)
 
 ### Datasets used
-The dataset provided with the MySQL Advanced Course by ![Maven][Maven-url] analyzed the sales of Maven Fuzzy Factory, and was specifically adjusted for the Bootcamp in 2022 from ![Udemy][Udemy-SQLcourse-url] to aid students practice SQL skills with a project. 
+The dataset provided with the MySQL Advanced Course by [Maven!](https://www.mavenanalytics.io/) analyzed the sales of Maven Fuzzy Factory, and was specifically adjusted for the Bootcamp in 2022 from [Udemy!](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/) to aid students practice SQL skills with a project. 
 
 We will be working with six related tables, which contain eCommerce data about:
 + Website Activity
