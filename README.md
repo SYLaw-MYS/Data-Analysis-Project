@@ -18,20 +18,31 @@ Lastly, data modelling with machine learning method help the company in making d
 * ![PyPI - Downloads](https://img.shields.io/pypi/dd/sklearn)
 * ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
 ### Datasets used
-The dataset provided with the MySQL Advanced Course by [Maven](https://www.mavenanalytics.io/) analyzed the sales of Maven Fuzzy Factory, and was specifically adjusted for the Bootcamp in 2022 from [Udemy](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/) to aid students practice SQL skills with a project. 
-
-We will be working with six related tables, which contain eCommerce data about:
-+ Website Activity
-+ Products
-+ Orders and Refunds
-We will use MySQL to understand how customers access and interact with the site, analyse landing page performance and conversion, and explore product-level sales.
-
+The dataset used in this project is originated from MySQL Advanced Course by [Maven](https://www.mavenanalytics.io/) which specifically adjusted for the Bootcamp in 2022 from [Udemy](https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/). The course has provided a SQL script to create database with six tables to simulate the real-world eCommerce sales (sales of Maven Fuzzy Factory) , which contains eCommerce data about:
+ * Website Activity
+ * Products
+ * Orders and Refunds
 ### Entity Relationship Diagram
 <img src="images/ERD-diagram.png">
 
+
+### Data Analysis using MySQL
+Based on these datasets, I conduct data analysis using MySQL to understand how customers access and interact with the site, analyse landing page performance and conversion, and explore product-level sales.
+
+Hence I can answer the questions on:
+    1. How does the company's order volume relate to the growth of overall website sessions on a quarterly basis? I have gathered quarterly data on sessions and orders throughout the lifespan of the business.
+    2. What are the quarterly figures for session-to-order conversion rate, revenue per order, and revenue per session since the company launch?
+    3. Based on quarterly order data from gsearch nonbrand, bsearch nonbrand, brand search overall, organic search, and direct type-in, how has the company expanded in specific channels?
+    4. Quarterly trends of the overall session-to-order conversion rate for these channels.
+    5. We have made significant progress from selling a single product. Let's analyze monthly trends for revenue, margin, total sales, and seasonality by product. Please note any observations you make.
+    6. Impact of introducing new products in greater detail. Retrieve monthly session data for the /products page and demonstrate the changing percentage of sessions clicking through to another page over time. Additionally, show how the conversion rate from /products to completed orders has improved.
+    7. On December 5, 2014, a 4th product to a primary offering from being a cross-sell item. How is the cross-selling performance among the products?
+
+
 ### Data Visualization in Python
-Python data visualization methods via matplotlib, seaborn, numpy and pandas to present the results in the MySQL Advanced Course by [Maven](https://www.mavenanalytics.io/)  
+I use Python data visualization methods via matplotlib, seaborn, numpy and pandas to present the results in the MySQL Advanced Course on:
   *  Company order volume and website session growth by quarter.
   *  Quarterly figures for conversion rate, revenue per order, and revenue per session.
   *  Quarterly view of orders from specific channels.
@@ -39,6 +50,7 @@ Python data visualization methods via matplotlib, seaborn, numpy and pandas to p
   *  Monthly trending for revenue, margin, total sales, and seasonality.
   *  Monthly sessions to /products page and conversion rates.
   *  Sales data and cross-selling analysis since December 05, 2014
+Results are shown in the jupyther notebook file.
 
 <!-- MARKDOWN LINKS -->
 [Maven-url]:https://www.mavenanalytics.io/
