@@ -5,7 +5,7 @@ This is an SQL analysis of a simulated company's trended performance data, telli
 
 Furthermore, by conducting data visualization with matplotlib, seaborn, numpy and pandas enable a more efficient way to correlate the operations to the company's performance improvement just in a glance. 
 
-Lastly, data modelling with machine learning method help the company in making decision what operations can result in better company's performance by predicting its potential sales. Please find the data modelling project [here]_(https://github.com/SieYung-Law/ML_modelling)_.
+Lastly, data modelling with machine learning method help the company in making decision what operations can result in better company's performance by predicting its potential sales. Please find the data modelling project [here]: https://github.com/SieYung-Law/ML_modelling.
 
 
 ### Tools used in this project
