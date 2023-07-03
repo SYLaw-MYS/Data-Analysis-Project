@@ -1,11 +1,11 @@
 ## Introduction
 
 
-An SQL analysis of a company's trended performance data, telling the story of the company's growth, can help the CEO craft a story about a data-driven company that has been producing rapid growth. Analysing the traffic and website performance data is important in order to show how the company able to produce growth. By diving in to the marketing channel activities and the website improvements that have contributed to the company success to date, it can show to the stakeholder that the company is a serious data-driven shop.
+This is an SQL analysis of a simulated company's trended performance data, telling the story of the company's growth, can help the CEO craft a story about a data-driven company that has been producing rapid growth. This project analyse the traffic and website performance data in order to show how the company able to produce growth. Also by diving in to the marketing channel activities and the website improvements that have contributed to the company success to date, it can show to the stakeholder that the company is a serious data-driven shop.
 
-Data visualization with matplotlib, seaborn, numpy and pandas enable a more efficient way to correlate the operations to the company's performance improvement just in a glance. 
+Furthermore, by conducting data visualization with matplotlib, seaborn, numpy and pandas enable a more efficient way to correlate the operations to the company's performance improvement just in a glance. 
 
-Lastly, data modelling with machine learning method help the company in making decision what operations can result in better company's performance by predicting its potential sales.
+Lastly, data modelling with machine learning method help the company in making decision what operations can result in better company's performance by predicting its potential sales. Please find the data modelling project [here]_(https://github.com/SieYung-Law/ML_modelling)_.
 
 
 ### Tools used in this project
@@ -55,4 +55,5 @@ Results are shown in the jupyther notebook file.
 <!-- MARKDOWN LINKS -->
 [Maven-url]:https://www.mavenanalytics.io/
 [Udemy-SQLcourse-url]:https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/ 
+
 
